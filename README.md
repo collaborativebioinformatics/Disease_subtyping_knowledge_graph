@@ -28,6 +28,8 @@
 
 ## Epigenomics
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874531/
+
 ## Graph genomes
 
 ### Expression x Graph
