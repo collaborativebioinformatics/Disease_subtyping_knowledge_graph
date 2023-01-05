@@ -22,6 +22,10 @@
 
 ## Proteomics
 
+### Are ET domains overexpressed in CMS1 vs other subtypes?
+
+#### Create a comprehensive list of ET domain proteins.  Look in pathways
+
 ## Epigenomics
 
 ## Graph genomes
@@ -33,3 +37,5 @@
 ### There are 34 typed cell lines for CRC
 
 https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-017-0691-y
+
+
