@@ -28,3 +28,8 @@
 
 ### Expression x Graph
 
+## Cell lines
+
+### There are 34 typed cell lines for CRC
+
+https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-017-0691-y
